@@ -1,5 +1,6 @@
 # github-copilot-hackathon
-##Personal finance tracker
+
+## Personal finance tracker
 
 The Personal Finance Tracker is a web-based application that allows users to manage their income and expenses, track their financial transactions, and view their current balance. This application is built using JavaScript, HTML, and CSS, with integration of Microsoft Cloud Technologies and GitHub Copilot.
 
